@@ -18,12 +18,12 @@ So I thought I might as well have some fun with it, and wrap this retro technolo
 
 ### Base main UI
 
-![Main UI](img\1.png)
+![Main UI](img/1.png)
 
 ### Results
 
-![Calculations](img\2.png)
+![Calculations](img/2.png)
 
 ### Error
 
-![Error handling](img\3.png)
+![Error handling](img/3.png)
